@@ -1,8 +1,8 @@
-// ignore all .exe files
+# ignore all .exe files
 
 *.exe
 
-//ignore all files that aren't exercises
+# ignore all files that aren't exercises
 
 OldExamTasks.c
 random.c
